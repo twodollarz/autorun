@@ -1,4 +1,5 @@
 # Autorun
+[![Build Status](https://travis-ci.org/twodollarz/autorun.png?branch=master)](https://travis-ci.org/twodollarz/autorun) [![Coverage Status](https://coveralls.io/repos/twodollarz/autorun/badge.png)](https://coveralls.io/r/twodollarz/autorun) [![Code Climate](https://codeclimate.com/github/twodollarz/autorun.png)](https://codeclimate.com/github/twodollarz/autorun)
 
 Autorun is a simple scripting helper module.  It allows you write a simple executable script per class easily.
 
